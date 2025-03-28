@@ -243,11 +243,11 @@ The model achieves the following performance:
 
 #### Training History
 
-![Training History](src/output2.png)
+![Training History](assets/output2.png)
 
 #### Confusion Matrix
 
-![Confusion Matrix](src/output.png)
+![Confusion Matrix](assets/output.png)
 
 
 ### Classification Report
